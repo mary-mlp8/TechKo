@@ -66,30 +66,30 @@ Three Complementary Revenue Streams:
 
 Coffee brands sponsor the use of TechKo across their allied farms as part of their sustainability, traceability, and regeneration commitments.
 In return, they receive:
-● “Powered by TechKo” visual certifi cation
-● Access to traceable environmental impact data
-● Real farm stories for purpose-driven brand storytelling
+- “Powered by TechKo” visual certifi cation
+- Access to traceable environmental impact data
+- Real farm stories for purpose-driven brand storytelling
 
 What’s included: platform + physical kit + regenerative monitoring system
 
 2. Sales of Low-Cost TechKo Kits
    
-What’s included: sensors + composting unit + app access
-Estimated price: to be confi rmed after Phase 2 of the roadmap
+- What’s included: sensors + composting unit + app access
+- Estimated price: to be confi rmed after Phase 2 of the roadmap
 The feasibility of self-assembled kits with recycled parts will be evaluated through local partnerships, provided minimum operational standards are met.
 
 3. Licensing / Subscription for Cooperatives
    
 Access to a community dashboard with:
-● Group-level data visualization
-● Cross-farm benchmarking
-● Technical support & assistance with regenerative practices
+- Group-level data visualization
+- Cross-farm benchmarking
+- Technical support & assistance with regenerative practices
 
 Model: Monthly subscription scaled by number of farms
 
 Freemium Access for Individual Farmers
-● Free access to basic environmental visualization
-● Digital composting guide
+- Free access to basic environmental visualization
+- Digital composting guide
 
 ---
 
