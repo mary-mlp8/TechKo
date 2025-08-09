@@ -79,6 +79,7 @@ Estimated price: to be confi rmed after Phase 2 of the roadmap
 The feasibility of self-assembled kits with recycled parts will be evaluated through local partnerships, provided minimum operational standards are met.
 
 3. Licensing / Subscription for Cooperatives
+   
 Access to a community dashboard with:
 ● Group-level data visualization
 ● Cross-farm benchmarking
